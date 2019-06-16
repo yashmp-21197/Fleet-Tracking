@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Yash\\react\\fleet_track\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Yash\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ec22a16e03ad43091e166bffcd8bcf3f\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash\\react\\fleet_track\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Yash\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ec22a16e03ad43091e166bffcd8bcf3f\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash\\react\\fleet_track\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Yash\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ec22a16e03ad43091e166bffcd8bcf3f\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash\\react\\fleet_track\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Yash\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\9d33ec76a31635a9e42ad69a4f8880b9\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

@@ -1,0 +1,739 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:20:1-86:12
+MERGED from [:react-native-fcm] C:\Users\Yash\react\fleet_track\node_modules\react-native-fcm\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:20:1-84:12
+MERGED from [:react-native-localization] C:\Users\Yash\react\fleet_track\node_modules\react-native-localization\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4fdd9ca738179a9bd4a9fb8feafaec6f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ec22a16e03ad43091e166bffcd8bcf3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\cc7a84b20b0d9a5456e41a5a4a9ce96d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\2bb5c4e9425087abc32a37cd2f3ddbfa\AndroidManifest.xml:17:1-37:12
+MERGED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\185fdfb0aa48d9e7b15918fbf27582c5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\a1290417b43463586e1bcfbdb0c96113\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\9662f6d2f56412a4f333d779ed6a74a7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a4103df6553201c3ebd5ac91d6c24bfd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c0b3339b8e45b67a0688b33c3dc7845b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b1ef5f77e58083b81b0fd9116feeebf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\e01df191168581fbb972c8987be9c9b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\48eef9d0aea7713a59ced522dfa01792\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\b04caa9f3f6825d1adf77878a927cbdf\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\63e636020119c99fd1685bbed5331702\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\4ea7b6abeba1faf291d8505193f2780d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7a2ad84f1d18a88f515ea0dd9f18cbfb\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c95e2c6d90a45e97f050f5625221c799\AndroidManifest.xml:1:1-3:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\5b749711855b7b6a8ad941cf21679cac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\b915fafb4543ce0105af5de01db03cbe\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\9d33ec76a31635a9e42ad69a4f8880b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\logback-android-1.1.1-9.aar\7b2d5601c9eee6e192a519b0c29b4759\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\444b23e552286d0c477246fcc4e1c0e8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\e06b691aff57396e3cc1c22a1310445f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\db627a33f56b7521f834d3fc82bb40f3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\1ce86fccc6654ce9209f2e37cc263bbd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\66df44569350c56ab3337480987df898\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\c1e60c2c734328305a27f148ec215314\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\775a69ed6a7ac2e3d78a38c32bc3d9e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\apktool-lib-1.4.4-5.aar\be4dbd3c9e4c6b3a522459d4c65adbc4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\a4c1b75e9ef66e68d1e04e41d7dd7899\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\534e9b2b21405d5901ea59207a78690f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\c84d5be4dc0c31588ee0c63c6b9abff2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e9bc3f1c08f751281bf8faa4ec3cfc28\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fcf8874c4fb467048ff7ea54b68411c0\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\abc21704d5981899e1511220d3598afb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a7a7660200a70257bbe34dfb0f6bbdc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\a416f186574671c3b2a147c618872e3c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\18251005eac79bcf3935e72eb42a409f\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b699a575c2cbb072212da57418ff748a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+	package
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:2:5-30
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:30:5-67
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:30:5-67
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:28:5-67
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:28:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4fdd9ca738179a9bd4a9fb8feafaec6f\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4fdd9ca738179a9bd4a9fb8feafaec6f\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:6:2-76
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:34:5-79
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:34:5-79
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:32:5-79
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:6:19-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:37:5-81
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:37:5-81
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:35:5-81
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:8:22-63
+application
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:10:5-52:19
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:42:5-84:19
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:42:5-84:19
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:40:5-82:19
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:40:5-82:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4fdd9ca738179a9bd4a9fb8feafaec6f\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4fdd9ca738179a9bd4a9fb8feafaec6f\AndroidManifest.xml:13:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\cc7a84b20b0d9a5456e41a5a4a9ce96d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\cc7a84b20b0d9a5456e41a5a4a9ce96d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\2bb5c4e9425087abc32a37cd2f3ddbfa\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\2bb5c4e9425087abc32a37cd2f3ddbfa\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\185fdfb0aa48d9e7b15918fbf27582c5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\185fdfb0aa48d9e7b15918fbf27582c5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\a1290417b43463586e1bcfbdb0c96113\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\a1290417b43463586e1bcfbdb0c96113\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\9662f6d2f56412a4f333d779ed6a74a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\9662f6d2f56412a4f333d779ed6a74a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a4103df6553201c3ebd5ac91d6c24bfd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a4103df6553201c3ebd5ac91d6c24bfd\AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7a2ad84f1d18a88f515ea0dd9f18cbfb\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7a2ad84f1d18a88f515ea0dd9f18cbfb\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c95e2c6d90a45e97f050f5625221c799\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c95e2c6d90a45e97f050f5625221c799\AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\b915fafb4543ce0105af5de01db03cbe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\b915fafb4543ce0105af5de01db03cbe\AndroidManifest.xml:25:5-20
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:11:5-16:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\444b23e552286d0c477246fcc4e1c0e8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\444b23e552286d0c477246fcc4e1c0e8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\c1e60c2c734328305a27f148ec215314\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\c1e60c2c734328305a27f148ec215314\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\a4c1b75e9ef66e68d1e04e41d7dd7899\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\a4c1b75e9ef66e68d1e04e41d7dd7899\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\534e9b2b21405d5901ea59207a78690f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\534e9b2b21405d5901ea59207a78690f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\c84d5be4dc0c31588ee0c63c6b9abff2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\c84d5be4dc0c31588ee0c63c6b9abff2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e9bc3f1c08f751281bf8faa4ec3cfc28\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e9bc3f1c08f751281bf8faa4ec3cfc28\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fcf8874c4fb467048ff7ea54b68411c0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fcf8874c4fb467048ff7ea54b68411c0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\a416f186574671c3b2a147c618872e3c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\a416f186574671c3b2a147c618872e3c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\18251005eac79bcf3935e72eb42a409f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\18251005eac79bcf3935e72eb42a409f\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:12:18-50
+	android:icon
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:13:18-52
+	android:allowBackup
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:14:18-45
+	android:theme
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:15:18-49
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:11:18-49
+receiver#com.evollu.react.fcm.FIRLocalMessagingPublisher
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:17:9-83
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:17:19-81
+receiver#com.evollu.react.fcm.FIRSystemBootEventReceiver
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:enabled
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:18:19-41
+	android:exported
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:18:42-65
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:18:67-129
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:20:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:21:17-81
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:21:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:22:17-81
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:22:25-79
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:23:27-73
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:27:9-131
+	android:resource
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:27:91-129
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:27:20-90
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:28:9-133
+	android:value
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:28:97-131
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:28:20-96
+service#com.evollu.react.fcm.MessagingService
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:29:9-33:19
+	android:enabled
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:29:71-93
+	android:exported
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:29:94-117
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:29:18-70
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:30:13-32:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:31:25-75
+service#com.evollu.react.fcm.InstanceIdService
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:34:9-38:19
+	android:exported
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:34:72-96
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:34:18-71
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:35:13-37:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:36:17-79
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:36:25-77
+activity#com.fleet_track.MainActivity
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:40:9-50:20
+	android:label
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:42:19-51
+	android:launchMode
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:43:19-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:45:19-61
+	android:configChanges
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:44:19-89
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:41:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:46:13-49:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:48:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:51:9-86
+	android:name
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:51:19-83
+uses-sdk
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:25:5-27:41
+MERGED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:25:5-27:41
+MERGED from [:react-native-fcm] C:\Users\Yash\react\fleet_track\node_modules\react-native-fcm\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fcm] C:\Users\Yash\react\fleet_track\node_modules\react-native-fcm\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:25:5-44
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:25:5-44
+MERGED from [:react-native-localization] C:\Users\Yash\react\fleet_track\node_modules\react-native-localization\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] C:\Users\Yash\react\fleet_track\node_modules\react-native-localization\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4fdd9ca738179a9bd4a9fb8feafaec6f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4fdd9ca738179a9bd4a9fb8feafaec6f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ec22a16e03ad43091e166bffcd8bcf3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ec22a16e03ad43091e166bffcd8bcf3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\cc7a84b20b0d9a5456e41a5a4a9ce96d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\cc7a84b20b0d9a5456e41a5a4a9ce96d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\2bb5c4e9425087abc32a37cd2f3ddbfa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\2bb5c4e9425087abc32a37cd2f3ddbfa\AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\185fdfb0aa48d9e7b15918fbf27582c5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\185fdfb0aa48d9e7b15918fbf27582c5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\a1290417b43463586e1bcfbdb0c96113\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\a1290417b43463586e1bcfbdb0c96113\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\9662f6d2f56412a4f333d779ed6a74a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\9662f6d2f56412a4f333d779ed6a74a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a4103df6553201c3ebd5ac91d6c24bfd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a4103df6553201c3ebd5ac91d6c24bfd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c0b3339b8e45b67a0688b33c3dc7845b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c0b3339b8e45b67a0688b33c3dc7845b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b1ef5f77e58083b81b0fd9116feeebf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b1ef5f77e58083b81b0fd9116feeebf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\e01df191168581fbb972c8987be9c9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\e01df191168581fbb972c8987be9c9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\48eef9d0aea7713a59ced522dfa01792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\48eef9d0aea7713a59ced522dfa01792\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\b04caa9f3f6825d1adf77878a927cbdf\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\b04caa9f3f6825d1adf77878a927cbdf\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\63e636020119c99fd1685bbed5331702\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\63e636020119c99fd1685bbed5331702\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\4ea7b6abeba1faf291d8505193f2780d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\4ea7b6abeba1faf291d8505193f2780d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7a2ad84f1d18a88f515ea0dd9f18cbfb\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7a2ad84f1d18a88f515ea0dd9f18cbfb\AndroidManifest.xml:2:3-70
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\5b749711855b7b6a8ad941cf21679cac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\5b749711855b7b6a8ad941cf21679cac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\b915fafb4543ce0105af5de01db03cbe\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\b915fafb4543ce0105af5de01db03cbe\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\9d33ec76a31635a9e42ad69a4f8880b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\9d33ec76a31635a9e42ad69a4f8880b9\AndroidManifest.xml:20:5-44
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\logback-android-1.1.1-9.aar\7b2d5601c9eee6e192a519b0c29b4759\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\logback-android-1.1.1-9.aar\7b2d5601c9eee6e192a519b0c29b4759\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\444b23e552286d0c477246fcc4e1c0e8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\444b23e552286d0c477246fcc4e1c0e8\AndroidManifest.xml:4:5-43
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\e06b691aff57396e3cc1c22a1310445f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\e06b691aff57396e3cc1c22a1310445f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\db627a33f56b7521f834d3fc82bb40f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\db627a33f56b7521f834d3fc82bb40f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\1ce86fccc6654ce9209f2e37cc263bbd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\1ce86fccc6654ce9209f2e37cc263bbd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\66df44569350c56ab3337480987df898\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\66df44569350c56ab3337480987df898\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\c1e60c2c734328305a27f148ec215314\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\c1e60c2c734328305a27f148ec215314\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\775a69ed6a7ac2e3d78a38c32bc3d9e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\775a69ed6a7ac2e3d78a38c32bc3d9e0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\apktool-lib-1.4.4-5.aar\be4dbd3c9e4c6b3a522459d4c65adbc4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\apktool-lib-1.4.4-5.aar\be4dbd3c9e4c6b3a522459d4c65adbc4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\a4c1b75e9ef66e68d1e04e41d7dd7899\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\a4c1b75e9ef66e68d1e04e41d7dd7899\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\534e9b2b21405d5901ea59207a78690f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\534e9b2b21405d5901ea59207a78690f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\c84d5be4dc0c31588ee0c63c6b9abff2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\c84d5be4dc0c31588ee0c63c6b9abff2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e9bc3f1c08f751281bf8faa4ec3cfc28\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e9bc3f1c08f751281bf8faa4ec3cfc28\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fcf8874c4fb467048ff7ea54b68411c0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fcf8874c4fb467048ff7ea54b68411c0\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\abc21704d5981899e1511220d3598afb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\abc21704d5981899e1511220d3598afb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a7a7660200a70257bbe34dfb0f6bbdc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a7a7660200a70257bbe34dfb0f6bbdc0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\a416f186574671c3b2a147c618872e3c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\a416f186574671c3b2a147c618872e3c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\18251005eac79bcf3935e72eb42a409f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\18251005eac79bcf3935e72eb42a409f\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b699a575c2cbb072212da57418ff748a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b699a575c2cbb072212da57418ff748a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a4103df6553201c3ebd5ac91d6c24bfd\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml
+uses-permission#android.hardware.location
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:29:5-65
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:27:5-65
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:29:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:31:5-68
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:29:5-68
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:29:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:32:5-79
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:30:5-79
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:30:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:33:5-81
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:31:5-81
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:35:5-89
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:33:5-89
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:35:22-86
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:36:5-94
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:34:5-94
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:34:5-94
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:36:22-91
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:38:5-77
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:36:5-77
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:36:5-77
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:38:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:39:5-78
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:37:5-78
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:37:5-78
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:39:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:40:5-80
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:38:5-80
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:40:22-77
+service#com.marianhello.bgloc.sync.SyncService
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:43:9-54:19
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:41:9-52:19
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:41:9-52:19
+	android:process
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:46:13-36
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:44:13-66
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:47:13-49:29
+action#android.content.SyncAdapter
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:48:17-70
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:48:25-67
+meta-data#android.content.SyncAdapter
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:51:13-53:55
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:49:13-51:55
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:49:13-51:55
+	android:resource
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:53:17-52
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:52:17-59
+service#com.marianhello.bgloc.sync.AuthenticatorService
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:55:9-63:19
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:53:9-61:19
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:53:9-61:19
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:55:18-80
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:56:13-58:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:57:17-80
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:57:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:60:13-62:57
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:58:13-60:57
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:58:13-60:57
+	android:resource
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:62:17-54
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:61:17-69
+provider#com.marianhello.bgloc.sync.DummyContentProvider
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:65:9-69:39
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:63:9-67:39
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:63:9-67:39
+	android:authorities
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:67:13-60
+	android:syncable
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:69:13-36
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:66:13-75
+service#com.marianhello.bgloc.LocationService
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:71:9-74:40
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:69:9-72:40
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:69:9-72:40
+	android:enabled
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:73:13-35
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:72:13-65
+receiver#com.marianhello.bgloc.BootCompletedReceiver
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:76:9-83:20
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:74:9-81:20
+MERGED from [:react-native-mauron85-background-geolocation-common] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\common\build\intermediates\manifests\full\release\AndroidManifest.xml:74:9-81:20
+	android:enabled
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:78:13-35
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:77:13-71
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:react-native-mauron85-background-geolocation] C:\Users\Yash\react\fleet_track\node_modules\react-native-mauron85-background-geolocation\android\lib\build\intermediates\manifests\full\release\AndroidManifest.xml:80:13-82:29
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\2bb5c4e9425087abc32a37cd2f3ddbfa\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\2bb5c4e9425087abc32a37cd2f3ddbfa\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\2bb5c4e9425087abc32a37cd2f3ddbfa\AndroidManifest.xml:29:13-82
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\7c2a31178bd0fd45dae1612a5baab8c9\AndroidManifest.xml:50:22-86
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\dd562fab4aff02c21bb7ecf5553adc74\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\61e73588506cbae1bc064cdd04df9932\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:29:9-63
+permission#com.fleet_track.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:32:22-76
+uses-permission#com.fleet_track.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.fleet_track
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:42:27-58
+category#com.fleet_track
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\5fa2d7390404ea475b7998fe982f186b\AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\91005b267fab2376fe9816c81eff3ce7\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b8eb4206c73eb8b01f339611cc92f9e1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\9662f6d2f56412a4f333d779ed6a74a7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\9662f6d2f56412a4f333d779ed6a74a7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\9662f6d2f56412a4f333d779ed6a74a7\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Yash\react\fleet_track\android\app\src\main\AndroidManifest.xml:1:1-53:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.6] C:\Users\Yash\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\1a782187b6123b17fcae13eb99b79496\AndroidManifest.xml:13:13-83

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "803513680370",
+    "firebase_url": "https://fleet-track-2018.firebaseio.com",
+    "project_id": "fleet-track-2018",
+    "storage_bucket": "fleet-track-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803513680370:android:57115853f3bf4190",
+        "android_client_info": {
+          "package_name": "com.fleet_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803513680370-e39mc106c0ci6tgl21dmprefofr2bgt5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "803513680370-e39mc106c0ci6tgl21dmprefofr2bgt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrNHBdpb5QiMuhuq9wC6E9JP9ltkKTgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

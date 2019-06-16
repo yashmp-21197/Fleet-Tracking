@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Yash\\react\\fleet_track\\android\\app\\build\\intermediates\\res\\merged\\release\\xml\\authenticator.xml",
+        "source": "C:\\Users\\Yash\\react\\fleet_track\\node_modules\\react-native-mauron85-background-geolocation\\android\\lib\\build\\intermediates\\packaged_res\\release\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash\\react\\fleet_track\\android\\app\\build\\intermediates\\res\\merged\\release\\xml\\syncadapter.xml",
+        "source": "C:\\Users\\Yash\\react\\fleet_track\\node_modules\\react-native-mauron85-background-geolocation\\android\\lib\\build\\intermediates\\packaged_res\\release\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash\\react\\fleet_track\\android\\app\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "C:\\Users\\Yash\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\4fdd9ca738179a9bd4a9fb8feafaec6f\\res\\xml\\preferences.xml"
+    }
+]
